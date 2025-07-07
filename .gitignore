@@ -1,0 +1,12 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all folders containing potential large CSV files
+DOS/
+Recon/
+Spoofing/
+web_based/
+Mirai/
+
+# Optionally ignore the root CSV if not needed
+# BenignTraffic.csv
